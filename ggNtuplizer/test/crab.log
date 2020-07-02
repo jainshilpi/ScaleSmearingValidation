@@ -1,0 +1,349 @@
+DEBUG 2020-03-04 10:37:05.171 UTC: 	 Running on: Linux lxplus774.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-04 10:37:05.188 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-04 10:37:05.189 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-04 10:37:05.238 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-04 10:37:05.309 UTC: 	 Checking credentials
+DEBUG 2020-03-04 10:37:05.310 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-04 10:37:05.310 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-04 10:37:06.216 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 0
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 10:37:06.216 UTC: 	 Proxy valid for 00:00:00 hours
+DEBUG 2020-03-04 10:37:06.216 UTC: 	 Creating new proxy for 24:00 hours with VO group '' and VO role 'NULL'.
+DEBUG 2020-03-04 17:15:37.474 UTC: 	 Running on: Linux lxplus774.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-04 17:15:37.493 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-04 17:15:37.494 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-04 17:15:37.512 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-04 17:15:37.569 UTC: 	 Checking credentials
+DEBUG 2020-03-04 17:15:37.569 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:37.569 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-04 17:15:38.584 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 19643
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:39.598 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 19642
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:39.598 UTC: 	 Proxy lifetime 19643 secs is different from voms extension lifetime 19642 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:39.598 UTC: 	 Proxy valid for 05:27:22 hours
+DEBUG 2020-03-04 17:15:39.599 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-03-04 17:15:39.852 UTC: 	 Running on: Linux lxplus774.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-04 17:15:39.870 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-04 17:15:39.871 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-04 17:15:39.966 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-04 17:15:39.975 UTC: 	 Checking credentials
+DEBUG 2020-03-04 17:15:39.975 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:39.975 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-04 17:15:40.914 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 19641
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:41.833 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 19640
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:41.833 UTC: 	 Proxy lifetime 19641 secs is different from voms extension lifetime 19640 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:41.833 UTC: 	 Proxy valid for 05:27:20 hours
+DEBUG 2020-03-04 17:15:41.834 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-03-04 17:15:41.979 UTC: 	 Running on: Linux lxplus774.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-04 17:15:42.023 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-04 17:15:42.024 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-04 17:15:42.042 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-04 17:15:42.051 UTC: 	 Checking credentials
+DEBUG 2020-03-04 17:15:42.051 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:42.052 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-04 17:15:43.065 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 19639
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:43.775 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 19638
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:43.775 UTC: 	 Proxy lifetime 19639 secs is different from voms extension lifetime 19638 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:43.775 UTC: 	 Proxy valid for 05:27:18 hours
+DEBUG 2020-03-04 17:15:43.776 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-03-04 17:15:43.936 UTC: 	 Running on: Linux lxplus774.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-04 17:15:43.953 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-04 17:15:43.954 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-04 17:15:43.963 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-04 17:15:43.972 UTC: 	 Checking credentials
+DEBUG 2020-03-04 17:15:43.973 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:43.973 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-04 17:15:44.678 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 19637
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:45.388 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 19636
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:45.388 UTC: 	 Proxy lifetime 19637 secs is different from voms extension lifetime 19636 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:45.388 UTC: 	 Proxy valid for 05:27:16 hours
+DEBUG 2020-03-04 17:15:45.389 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-03-04 17:15:45.530 UTC: 	 Running on: Linux lxplus774.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-04 17:15:45.550 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-04 17:15:45.551 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-04 17:15:45.561 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-04 17:15:45.570 UTC: 	 Checking credentials
+DEBUG 2020-03-04 17:15:45.570 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:45.570 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-04 17:15:46.381 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 19635
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:47.190 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 19634
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-04 17:15:47.191 UTC: 	 Proxy lifetime 19635 secs is different from voms extension lifetime 19634 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-04 17:15:47.191 UTC: 	 Proxy valid for 05:27:14 hours
+DEBUG 2020-03-04 17:15:47.192 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-03-05 12:16:15.189 UTC: 	 Running on: Linux lxplus745.cern.ch 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-05 12:16:15.211 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-05 12:16:15.212 UTC: 	 Executing command: 'status'
+DEBUG 2020-03-05 12:16:15.213 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+ERROR 2020-03-05 12:16:15.235 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+ERROR 2020-03-05 12:16:15.235 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+DEBUG 2020-03-05 12:16:23.077 UTC: 	 Running on: Linux lxplus745.cern.ch 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-05 12:16:23.096 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-05 12:16:23.096 UTC: 	 Executing command: 'status'
+DEBUG 2020-03-05 12:16:23.096 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+ERROR 2020-03-05 12:16:23.097 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+ERROR 2020-03-05 12:16:23.098 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+DEBUG 2020-03-05 12:23:22.008 UTC: 	 Running on: Linux lxplus745.cern.ch 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-05 12:23:22.064 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-05 12:23:22.065 UTC: 	 Executing command: 'status'
+DEBUG 2020-03-05 12:23:22.065 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+ERROR 2020-03-05 12:23:22.131 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+ERROR 2020-03-05 12:23:22.132 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+DEBUG 2020-03-07 20:58:58.125 UTC: 	 Running on: Linux lxplus767.cern.ch 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-07 20:58:58.141 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-07 20:58:58.141 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-07 20:58:58.160 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-07 20:58:58.215 UTC: 	 Checking credentials
+DEBUG 2020-03-07 20:58:58.215 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-07 20:58:58.215 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-07 20:58:59.020 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 0
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:58:59.020 UTC: 	 Proxy valid for 00:00:00 hours
+DEBUG 2020-03-07 20:58:59.020 UTC: 	 Creating new proxy for 24:00 hours with VO group '' and VO role 'NULL'.
+DEBUG 2020-03-07 20:59:06.641 UTC: 	 Executing : 
+ command : voms-proxy-init -voms cms:/cms -valid 24:00 -rfc
+ output : None
+ error: None
+ retcode : 0
+DEBUG 2020-03-07 20:59:07.246 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 86398
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:07.852 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 86397
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:07.852 UTC: 	 Proxy lifetime 86398 secs is different from voms extension lifetime 86397 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-07 20:59:08.457 UTC: 	 Executing : 
+ command : env X509_USER_PROXY=/tmp/x509up_u32031 voms-proxy-info -fqan
+ output : /cms/Role=NULL/Capability=NULL
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:08.457 UTC: 	 Proxy created.
+ERROR 2020-03-07 20:59:08.458 UTC: 	 CRAB configuration file crabConfig.py not found.
+ERROR 2020-03-07 20:59:08.458 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/submit.py", line 35, in __init__
+    SubCommand.__init__(self, logger, cmdargs, disable_interspersed_args=True)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 320, in __init__
+    self.loadConfig(self.options.config, self.args)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 50, in loadConfig
+    raise ConfigurationException("CRAB configuration file %s not found." % (configname))
+ConfigurationException: CRAB configuration file crabConfig.py not found.
+DEBUG 2020-03-07 20:59:11.500 UTC: 	 Running on: Linux lxplus767.cern.ch 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-07 20:59:11.513 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-07 20:59:11.513 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-07 20:59:11.514 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-07 20:59:11.519 UTC: 	 Checking credentials
+DEBUG 2020-03-07 20:59:11.520 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-07 20:59:11.520 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-07 20:59:12.124 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 86393
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:12.729 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 86392
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:12.729 UTC: 	 Proxy lifetime 86393 secs is different from voms extension lifetime 86392 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-07 20:59:12.729 UTC: 	 Proxy valid for 23:59:52 hours
+ERROR 2020-03-07 20:59:12.729 UTC: 	 CRAB configuration file crabConfig.py not found.
+ERROR 2020-03-07 20:59:12.729 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/submit.py", line 35, in __init__
+    SubCommand.__init__(self, logger, cmdargs, disable_interspersed_args=True)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 320, in __init__
+    self.loadConfig(self.options.config, self.args)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 50, in loadConfig
+    raise ConfigurationException("CRAB configuration file %s not found." % (configname))
+ConfigurationException: CRAB configuration file crabConfig.py not found.
+DEBUG 2020-03-07 20:59:21.678 UTC: 	 Running on: Linux lxplus767.cern.ch 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-03-07 20:59:21.691 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-03-07 20:59:21.692 UTC: 	 Executing command: 'submit'
+DEBUG 2020-03-07 20:59:21.692 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+DEBUG 2020-03-07 20:59:21.697 UTC: 	 Checking credentials
+DEBUG 2020-03-07 20:59:21.698 UTC: 	 Found proxy file /tmp/x509up_u32031
+DEBUG 2020-03-07 20:59:21.698 UTC: 	 Getting proxy life time left
+DEBUG 2020-03-07 20:59:22.302 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -timeleft
+ output : 86383
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:22.907 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u32031 -actimeleft
+ output : 86382
+
+ error: 
+ retcode : 0
+DEBUG 2020-03-07 20:59:22.907 UTC: 	 Proxy lifetime 86383 secs is different from voms extension lifetime 86382 secs for proxy: /tmp/x509up_u32031
+DEBUG 2020-03-07 20:59:22.907 UTC: 	 Proxy valid for 23:59:42 hours
+ERROR 2020-03-07 20:59:22.907 UTC: 	 CRAB configuration file crabConfig.py not found.
+ERROR 2020-03-07 20:59:22.908 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/submit.py", line 35, in __init__
+    SubCommand.__init__(self, logger, cmdargs, disable_interspersed_args=True)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 320, in __init__
+    self.loadConfig(self.options.config, self.args)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 50, in loadConfig
+    raise ConfigurationException("CRAB configuration file %s not found." % (configname))
+ConfigurationException: CRAB configuration file crabConfig.py not found.
+DEBUG 2020-05-06 09:32:37.836 UTC: 	 Running on: Linux lxplus786.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 09:32:37.854 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 09:32:37.854 UTC: 	 Executing command: 'status'
+DEBUG 2020-05-06 09:32:37.854 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+ERROR 2020-05-06 09:32:37.857 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+ERROR 2020-05-06 09:32:37.857 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataB
+DEBUG 2020-05-06 09:32:42.449 UTC: 	 Running on: Linux lxplus786.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 09:32:42.467 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 09:32:42.467 UTC: 	 Executing command: 'status'
+DEBUG 2020-05-06 09:32:42.467 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/shilpi/.crab3
+ERROR 2020-05-06 09:32:42.468 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataC
+ERROR 2020-05-06 09:32:42.468 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/shilpi/work/2015/Egamma_work_2019/scalesAndsmearingValidationSetup/CMSSW_10_6_2/src/ggAnalysis/ggNtuplizer/test/crab_projects_ntuples/crab_dataC
